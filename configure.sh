@@ -19,7 +19,7 @@ cat <<-EOF > /etc/v2ray/config.json
       ]
     },
     "streamSettings": {
-      "network": "h2"
+      "network": "ws"
     }
   }
   ],
